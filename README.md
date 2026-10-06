@@ -88,6 +88,9 @@ Bond-DBCheck（邦德智能巡检平台）是一个 **Web 版数据库巡检平�
 2. 「AI助手 → AI 报告解读」选择 AI 接口、勾选报告（单份或多份）→「开始解读」。
 3. 生成健康结论、问题排序与处置建议。
 
+<img width="1636" height="966" alt="ba79d4b9c0ce0270dfdcbb1e42a9d463" src="https://github.com/user-attachments/assets/e3c27468-f2b8-4258-81e0-ee1f8c2ad229" />
+
+
 ### 2.6 工单管理
 
 - 巡检发现的**警告/严重/失败项**会自动生成工单。
