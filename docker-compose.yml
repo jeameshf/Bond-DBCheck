@@ -1,0 +1,12 @@
+services:
+  dbcheck:
+    build: .
+    image: dbcheck:1.0
+    container_name: dbcheck
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped
+    environment:
+      - TZ=Asia/Shanghai
