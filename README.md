@@ -8,7 +8,7 @@ Bond-DBCheck（邦德智能巡检平台）是一个 **Web 版数据库巡检平�
 
 获取最新完整Linux及windows安装包，请联系微信：jem_db
 
-联系我们
+联系我们,欢迎大家提出宝贵的意见，是我优化系统的动力！
 如你有更多问题，可以加入我们的技术交流群与我们交流。
 <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/e2bebd49-cc5a-4b34-8308-2616d2969e6e" />
 
