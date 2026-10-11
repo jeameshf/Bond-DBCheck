@@ -1,6 +1,6 @@
 # Bond-DBCheck 邦德智能巡检平台 · 使用说明
 
-> 当前版本：v1.0.0 ｜ 适用平台：Windows / Linux / 容器（Docker）
+> 当前版本：v2.0.0 ｜ 适用平台：Windows / Linux / 容器（Docker）
 
 Bond-DBCheck（邦德智能巡检平台）是一个 **Web 版数据库巡检平台**：通过可配置的巡检模板执行 SQL，自动生成 **HTML / Word** 巡检报告，支持 **Oracle / MySQL / PostgreSQL**，提供**手动 + 自动（Cron 调度）巡检**、**AI 报告解读**、**工单管理**、**用户权限（RBAC）** 与 **告警通知**。
 
