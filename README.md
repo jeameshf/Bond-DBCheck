@@ -290,5 +290,6 @@ docker run -d --name dbcheck -p 8080:8080 -v $(pwd)/data:/app/data dbcheck:1.0
 
 *本文档由 Bond-DBCheck 邦德智能巡检平台维护。*
 
-License
+**License**
+
 This repository is licensed under the Dify Open Source License, based on Apache 2.0 with additional conditions.
